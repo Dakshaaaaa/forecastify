@@ -18,7 +18,6 @@ A dynamic and modern React application that provides real-time weather data and 
 * **Unit Toggle:** Switch between **Celsius (°C)** and **Fahrenheit (°F)**.
 * **Multi-City Tracking:** Easily add and switch between multiple saved cities (e.g., London, New York, Tokyo).
 * **Current Location:** Option to fetch weather data based on the user's geographical location.
-* **Modern UI:** Utilizes a Glassmorphism design over a dynamic, weather-appropriate background (like the intense lightning storm backdrop).
 * **Mobile Responsive:** Fully functional and aesthetically pleasing on all screen sizes.
 
 ## 🛠️ Tech Stack
@@ -41,7 +40,7 @@ You need [Node.js](https://nodejs.org/) installed on your machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/Dakshaaaaa/forecastify.git]
+    git clone (https://github.com/Dakshaaaaa/forecastify.git)
     cd your-repo-name
     ```
 
@@ -51,7 +50,6 @@ You need [Node.js](https://nodejs.org/) installed on your machine.
     # or
     yarn install
     ```
-        ```
 
 3.  **Run the App:**
     ```bash
@@ -63,12 +61,10 @@ You need [Node.js](https://nodejs.org/) installed on your machine.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/YOUR_GITHUB_USERNAME/your-repo-name/issues).
+Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 **Coded with ❤️ by Daksha Pawar**
