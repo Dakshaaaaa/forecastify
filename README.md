@@ -2,21 +2,17 @@
 
 A dynamic and modern React application that provides real-time weather data and a 5-day forecast for any city worldwide, featuring a sleek **Glassmorphism** UI and responsive design.
 
-![Screenshot of the App's Main View](https://i.imgur.com/your-main-screenshot.jpg)
-*(Replace the link above with a high-quality image of your deployed app, similar to image_81ca34.jpg)*
-
 ## 🚀 Live Demo
 
-**View the Live Application Here:** [YOUR_DEPLOYED_URL_HERE]
-*(Replace with the link you get from Vercel or Netlify)*
+**View the Live Application Here:** https://forecastify-five.vercel.app/
 
 ## ✨ Features
 
-* **Real-time Weather:** Fetches and displays current weather conditions (temperature, description).
+* **Real-time Weather:** Fetches and displays current weather conditions.
 * **5-Day Forecast:** Provides a detailed outlook for the next five days.
 * **Today's Highlights:** Displays essential metrics like **Humidity**, **Wind Speed**, **Visibility**, and **Cloudiness**.
 * **Unit Toggle:** Switch between **Celsius (°C)** and **Fahrenheit (°F)**.
-* **Multi-City Tracking:** Easily add and switch between multiple saved cities (e.g., London, New York, Tokyo).
+* **Multi-City Tracking:** Easily add and switch between multiple saved cities.
 * **Current Location:** Option to fetch weather data based on the user's geographical location.
 * **Mobile Responsive:** Fully functional and aesthetically pleasing on all screen sizes.
 
@@ -40,7 +36,7 @@ You need [Node.js](https://nodejs.org/) installed on your machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone (https://github.com/Dakshaaaaa/forecastify.git)
+    git clone https://github.com/Dakshaaaaa/forecastify.git
     cd your-repo-name
     ```
 
