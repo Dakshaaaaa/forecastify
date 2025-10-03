@@ -4,7 +4,7 @@ body {
     font-family: 'Poppins', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    background-image: url('D:\github projects\my-app\public\images\thunder.jpg'); 
+    background-image: url('../public/images/thunder.jpg'); 
     background-size: cover; 
     background-position: center;
     background-repeat: no-repeat;
@@ -23,7 +23,7 @@ body {
     align-items: center;
 }
 .default-bg, .Thunderstorm-bg {
-    background-image: url('D:\github projects\my-app\public\images\thunder.jpg');
+    background-image: url('../public/images/thunder.jpg');
 }
 .app-title-container h1 {
     font-size: 2.5em;
