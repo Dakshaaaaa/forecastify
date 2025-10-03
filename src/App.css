@@ -49,7 +49,7 @@ body {
 .unit-toggle {
     display: flex;
     justify-content: center;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 4px 6px rgba(8, 8, 8, 0.15);
     flex-shrink: 0; 
 }
 .unit-button {
@@ -94,7 +94,7 @@ body {
 .search-button {
     padding: 12px 20px;
     font-size: 1em;
-    background-color: #28a745; 
+    background-color: #287da7; 
     color: white;
     border: none;
     border-radius: 0 20px 20px 0; 
@@ -103,7 +103,7 @@ body {
     flex-shrink: 0;
 }
 .location-button {
-    background-color: #3f51b5; 
+    background-color: #8eb53f; 
     color: white;
     padding: 12px 20px; 
     border: none;
@@ -111,7 +111,7 @@ body {
     cursor: pointer;
     font-size: 1em;
     transition: background-color 0.3s, opacity 0.3s;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    box-shadow: 1 4px 6px rgba(8, 8, 8, 0.2);
     flex-shrink: 0;
 }
 .city-tabs {
@@ -141,7 +141,7 @@ body {
     background: #3f51b5; 
     border-color: #3f51b5;
     font-weight: bold;
-    box-shadow: 0 0 10px rgba(63, 81, 181, 0.5);
+    box-shadow: 1 1 10px rgba(63, 81, 181, 0.5);
 }
 .delete-city-button {
     font-weight: bold;
@@ -192,23 +192,23 @@ body {
     min-width: 320px;
 }
 .weather-card h2 {
-    font-size: 2.5em;
+    font-size: 3em;
     margin-bottom: 10px; 
     padding-bottom: 5px;
-    font-weight: 600;
+    font-weight: 700;
     border-bottom: none; 
 }
 .last-updated {
-    font-size: 0.85em;
+    font-size: 2em;
     margin-top: 0px; 
     margin-bottom: 20px;
     opacity: 0.7; 
-    font-weight: 300;
+    font-weight: 400;
 }
 .temp {
     font-weight: 700;
-    color: #4CAF50; 
-    text-shadow: 0 0 10px rgba(76, 175, 80, 0.8), 0 0 20px rgba(76, 175, 80, 0.5); 
+    color: #ee72c6; 
+    text-shadow: 0 0 10px rgba(175, 76, 153, 0.8), 0 0 20px rgba(246, 239, 245, 0.5); 
     margin: 10px 0 20px 0;
     display: flex;
     justify-content: center;
@@ -230,11 +230,11 @@ body {
     margin-top: 25px;
     padding-top: 20px;
     border-top: 1px solid rgba(255, 255, 255, 0.4); 
-    text-align: left;
-    font-size: 0.9em;
+    text-align: center;
+    font-size: 1.2em;
 }
 .highlights-card h3 {
-    font-size: 1.5em;
+    font-size: 2em;
     margin-top: 0;
     margin-bottom: 25px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
@@ -255,7 +255,7 @@ body {
     text-align: center;
 }
 .highlight-title {
-    font-size: 0.9em;
+    font-size: 2em;
     margin-bottom: 5px;
     opacity: 0.8;
 }
@@ -277,8 +277,8 @@ body {
     border-radius: 20px;
 }
 .forecast-title {
-    font-size: 1.8em;
-    font-weight: 600;
+    font-size: 2em;
+    font-weight: 700;
     margin-top: 0;
     margin-bottom: 20px;
     padding-bottom: 10px;
